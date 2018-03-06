@@ -2,6 +2,7 @@
 
 # Remember to close your files after usuage in any
 # python program. Opening a lot of files is not good
+# for memry. 
 
 
 
