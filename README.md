@@ -1,2 +1,3 @@
 # PythonLib, Algorithm implementations
-BST.python = Binary Search Tree
+BST.py = Binary Search Tree
+readFiles.py = Examples on read files
